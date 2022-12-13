@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "http": "0.0.1-security",
     "md5": "^2.2.1",
     "mongoose": "^5.9.5"
